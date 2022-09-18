@@ -1,0 +1,40 @@
+.hidden{
+  display: none !important;
+}
+
+.forecast-container{
+  border: none;
+  width: 100%;
+  height: auto;
+}
+
+.forecast{
+  padding: .5rem;
+  border: none;
+}
+
+.favorable{
+background-color: greenyellow;
+width:fit-content;
+}
+
+.moderate{
+background-color: yellow;
+}
+
+.severe{
+background-color: red;
+}
+
+.city-btn{
+  width: 15rem;
+  height: auto;
+}
+
+.city-list{
+  color: rgba(0, 0, 0, 0.765);
+  font-size: auto;
+  width:fit-content;
+}
+
+
